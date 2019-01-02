@@ -20,9 +20,13 @@ if ($country !== 'United States') {
 ```
 
 ### Methods
-
-*country()*
 ```
+/**
+ * ip
+ * User's IP Address
+ */
+$iplookup->ip();
+
 /**
  * country
  * Full country name
